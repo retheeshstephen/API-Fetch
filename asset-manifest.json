@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/API-Fetch/static/css/main.9daf32c8.css",
+    "main.js": "/API-Fetch/static/js/main.ad2d507a.js",
+    "index.html": "/API-Fetch/index.html",
+    "main.9daf32c8.css.map": "/API-Fetch/static/css/main.9daf32c8.css.map",
+    "main.ad2d507a.js.map": "/API-Fetch/static/js/main.ad2d507a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9daf32c8.css",
+    "static/js/main.ad2d507a.js"
+  ]
+}
